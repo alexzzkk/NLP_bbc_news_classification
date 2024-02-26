@@ -1,4 +1,4 @@
-# Problem understanding
+# Description
 
 This repository was created for releasing the code for solving text classification problem given bbc_news dataset using Python and Jupyter Notebook.
 
@@ -10,7 +10,6 @@ This repository was created for releasing the code for solving text classificati
 - Open the jupyter notebook and run all the commands
 - Note that some cells were commented out because it tooks relatively long time to execute. Be sure to remove the comment if execution is required.
 
-
 # Requirement
-Python<br>
-Jupyter Notebook<br>
+Python version: 3.11.5 <br>
+Jupyter Notebook version: 6.5.4 <br>
