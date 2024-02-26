@@ -14,9 +14,9 @@ In addition to that, below specific requirements were also
 
 # Instruction for execution
 - Download the Jupyter Notebook `Coursework report – part 2.ipynb`
-- Download the zipfile named `bbc.zip`, make sure that this file is in the same folder as the Jupyerte Notebook.
+- Download the zipfile named `bbc.zip`, make sure that the unzipped folder is in the same folder as the `Coursework report – part 2.ipynb`
 - Open the jupyter notebook and run all the commands
-- Note that some cells were commented out because it tooks relatively long time to execute. Be sure to remove the comment if execution is required.
+- Note that some cells were commented out because it tooks relatively long time to execute. Be sure to remove the comment if execution is required
 
 # Requirement
 Python version: 3.11.5 <br>
