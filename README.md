@@ -9,8 +9,8 @@ There are five natural classes within this dataset, namely business, entertainme
 ## Description of tasks
 Based on this dataset, tasks such as data preprocessing, features selection, and training and evaluating of a machine learning model were performed to classify news articles.
 In addition to that, below specific requirements were also 
-- including at least three different features to train their model, one of them should be based on some sort of word frequency.
-- performing feature selection to reduce the dimensionality of all features.
+- including at least three different features to train their model, one of them should be based on some sort of word frequency
+- performing feature selection to reduce the dimensionality of all features
 
 # Instruction for execution
 - Download the Jupyter Notebook `Coursework report – part 2.ipynb`
