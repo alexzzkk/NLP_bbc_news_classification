@@ -21,4 +21,3 @@ Additionally,
 # Requirement
 Python version: 3.11.5 <br>
 Jupyter Notebook version: 6.5.4 <br>
-![image](https://github.com/alexzzkk/courseword_code_release/assets/33566560/5e30990b-6985-4d4f-9142-6ea6fe84b9b2)
