@@ -14,6 +14,7 @@ Additionally,
 
 # Instruction for execution
 - Download the Jupyter Notebook `Coursework report – part 2.ipynb`
+- Make sure the required Python libraries are installed
 - Download the zipfile named `bbc.zip`, make sure that the unzipped folder is in the same folder as the `Coursework report – part 2.ipynb`
 - Open the Jupyter Notebook and run all the commands
 - Note that some cells were commented out because it takes relatively long time to execute. Be sure to remove the comment if you want to execute the code.
