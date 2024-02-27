@@ -21,3 +21,7 @@ Additionally,
 # Requirement
 Python version: 3.11.5 <br>
 Jupyter Notebook version: 6.5.4 <br>
+spacy version: 3.7.4 <br>
+pandas version: 2.0.3 <br>
+xgboost version: 2.0.3 <br> 
+sklearn version: 1.3.0
