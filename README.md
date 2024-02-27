@@ -13,6 +13,7 @@ Additionally,
 - Feature selection was performed to reduce the dimensionality of all features
 
 # Instruction for execution
+- Lauch Jupyter Notebook in terminal using the command line `Jupyter Notebook`
 - Download the Jupyter Notebook `Coursework report – part 2.ipynb`
 - Make sure the required Python libraries are installed
 - Download the zipfile named `bbc.zip`, make sure that the unzipped folder is in the same folder as the `Coursework report – part 2.ipynb`
